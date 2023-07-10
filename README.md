@@ -24,8 +24,9 @@ A live demo of DynaText can be accessed [here](https://dynatext-utkarssh11.verce
 
 ## Screenshots 📷
 
-![Screenshot 1](https://github.com/Utkarssh11/dynatext/blob/680746196477f45365257f50c82f60670582acb7/Screenshot%20(419).png)
-![Screenshot 2](/path/to/screenshot-2.png)
+![Screenshot 1](https://github.com/Utkarssh11/dynatext/blob/97c9a19ba471b74e6747f4954e24166e7797be64/1.png?raw=true)
+![Screenshot 2](https://github.com/Utkarssh11/dynatext/blob/97c9a19ba471b74e6747f4954e24166e7797be64/3.png?raw=true)
+![Screenshot 3](https://github.com/Utkarssh11/dynatext/blob/97c9a19ba471b74e6747f4954e24166e7797be64/2.png?raw=true)
 
 ## License 📄
 
